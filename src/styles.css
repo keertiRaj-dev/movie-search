@@ -1,0 +1,13 @@
+body {
+  color: #fff;
+  font-family: sans-serif;
+  background: #222;
+}
+
+:root {
+  --primary-color: #d96aa7;
+  --secondary-color: #422c73;
+  --complimentary-color: #88bfb5;
+  --contrast-color: #f2e527;
+  --light-color: #d2a9d9;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "yoop-vision-take-home",
+  "version": "1.0.0",
+  "description": "Used to quickly start coding a react demo.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/react": "16.8.6",
+    "@types/react-dom": "16.8.2",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
